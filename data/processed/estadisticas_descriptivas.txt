@@ -1,0 +1,31 @@
+RESUMEN DE ANÁLISIS EXPLORATORIO - STORE SALES
+============================================================
+
+INFORMACIÓN GENERAL DEL DATASET
+----------------------------------------
+Periodo de análisis: 2013-01-01 00:00:00 to 2017-08-15 00:00:00
+Total de registros: 3,000,888
+Total de ventas: $1,073,644,952.20
+Familias de productos: 33
+Tiendas: 54
+
+ESTADÍSTICAS DE VENTAS
+-------------------------
+Media: $357.78
+Mediana: $11.00
+Desviación estándar: $1102.00
+Mínimo: $0.00
+Máximo: $124717.00
+
+TOP 10 FAMILIAS DE PRODUCTOS POR VENTAS
+---------------------------------------------
+ 1. GROCERY I                      $343,462,734.89
+ 2. BEVERAGES                      $216,954,486.00
+ 3. PRODUCE                        $122,704,684.68
+ 4. CLEANING                       $97,521,289.00
+ 5. DAIRY                          $64,487,709.00
+ 6. BREAD/BAKERY                   $42,133,945.58
+ 7. POULTRY                        $31,876,004.47
+ 8. MEATS                          $31,086,468.40
+ 9. PERSONAL CARE                  $24,592,051.00
+10. DELI                           $24,110,322.47
